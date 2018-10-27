@@ -3,3 +3,4 @@ Django Tutorial by Corey Schafer (https://www.youtube.com/channel/UCCezIgC97PvUu
 
 1. Getting Started
 2. Application and Route
+3. Templates
